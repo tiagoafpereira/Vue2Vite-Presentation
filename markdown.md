@@ -134,7 +134,7 @@ Time: 27550ms
 ---
 ##
 
-![xkcd_compiliing](media/compiling.png)
+<img class="r-stretch" src="media/compiling.png"/>
 
 ---
 ## It gets worse
@@ -203,7 +203,7 @@ Time: 27550ms
 ---
 ## Great timing! 
 
-Now I have something to present at PortoVue!
+Now I have something to present at Porto.Vue!
 
 ![roll_safe](media/roll_safe.webp)
 
@@ -818,7 +818,7 @@ notes:
 * Learning from someone else's mistakes is good
 * But learning from your own is even better 🤓
 
-<small>This presentation is available on [github.com/tiagoafpereira](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
+<small>This presentation is available on [github](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
 
 ---
 ## Up next 
