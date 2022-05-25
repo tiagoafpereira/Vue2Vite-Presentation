@@ -823,3 +823,5 @@ Someone who knows what he's doing! <!-- .element: class="fragment fade-up" data-
 
 * Learning from someone else's mistakes is good
 * But learning from your own is even better
+
+<small>This presentation is available on [GitHub](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
