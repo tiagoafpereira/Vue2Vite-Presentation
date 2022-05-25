@@ -818,7 +818,7 @@ notes:
 * Learning from someone else's mistakes is good
 * But learning from your own is even better 🤓
 
-<small>This presentation is available on [GitHub](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
+<small>This presentation is available on [github.com/tiagoafpereira](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
 
 ---
 ## Up next 
