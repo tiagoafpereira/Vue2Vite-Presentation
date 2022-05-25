@@ -814,7 +814,7 @@ notes:
 ---
 ## Nah, I'm done here!
 
-* Hope you had a reasonable time
+* Hope you had a good time 😴
 * Learning from someone else's mistakes is good
 * But learning from your own is even better 🤓
 
