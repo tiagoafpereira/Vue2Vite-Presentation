@@ -372,6 +372,10 @@ What? 832 miliseconds? 🫠
 
 ![no_parsing](media/unable_to_parse_html.png)
 
+notes:
+
+* Vite does not understand webpack placeholders
+
 ---
 ## Comment out the errors
 
@@ -564,8 +568,8 @@ notes:
 
 * 2:58 minutes? 🔥🔥🔥
 * webpack takes 5:36
-  * That's almost twice as fast: happier pipelines! 🪠
-  * E.g.: First 6 months of 2020 totaled 255 pipeline hours that could be cut in half
+  * That's almost 2x faster
+  * E.g.: First 6 months of 2020 totaled 255 pipeline hours that could be cut in half 🪠
 
 ---
 ## Check the browser...
@@ -661,6 +665,11 @@ Uh... says who? 😒
 
 Ok, fine! 😤 <!-- .element: class="fragment" -->
 
+notes:
+
+* Vite only supports ESM meaning CommonJS modules are no longer supported
+* But if you do need them there's a plugin for that
+
 ---
 ## Vite CommonJS Plugin
 
@@ -698,6 +707,11 @@ notes:
 
 * We're good now!
 
+notes:
+
+* Requests are being made
+* You can see the browser requesting vue and ts files
+
 ---
 ## Poking around
 
@@ -708,7 +722,7 @@ notes:
 
 notes:
 
-* More and better routing
+* Needs more and better routing
 * Async Components https://vuejs.org/guide/essentials/component-basics.html#dynamic-components
 
 ---
@@ -796,6 +810,12 @@ notes:
 ##
 
 <h2 class="r-fit-text">CTRL+C</h2>
+
+notes:
+
+* At this point I started getting system notifications that I was running out of RAM
+* Sure enough it was storybook
+* _May_ have been something poorly configured
 
 ---
 
