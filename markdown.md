@@ -812,16 +812,18 @@ notes:
 * Let's speed something else up shall we?
 
 ---
+## Nah, I'm done here!
+
+* Hope you had a reasonable time
+* Learning from someone else's mistakes is good
+* But learning from your own is even better 🤓
+
+<small>This presentation is available on [GitHub](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
+
+---
 ## Up next 
 <!-- .slide: data-background-image="media/background porto.vue.png" -->
 **João Gonçalves** <!-- .element: class="fragment fade-up" data-fragment-index="1" -->
 
 Someone who knows what he's doing! <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
 
----
-## Hope you enjoyed this
-
-* Learning from someone else's mistakes is good
-* But learning from your own is even better
-
-<small>This presentation is available on [GitHub](https://github.com/tiagoafpereira/Vue2Vite-Presentation)</small>
